@@ -1,3 +1,5 @@
+//this is euclidean algorithm used to find hcf between two numbers
+
 #include <bits/stdc++.h>
 using namespace std;
 
